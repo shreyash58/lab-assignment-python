@@ -1,0 +1,2 @@
+Python is most used language in the world.
+Python id developed by Guido van Rossum in 1970s.
